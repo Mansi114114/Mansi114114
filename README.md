@@ -42,29 +42,6 @@
 
 ---
 
-## 💡 Projects
-
-### 🔹 Nirbhaya – Women Safety App
-- SOS emergency feature for real-time help  
-- Built using Android (Kotlin)  
-
-### 🔹 PlantSphere – Smart Plant Monitoring
-- IoT-based system using sensors  
-- Tracks temperature, humidity & soil  
-
-### 🔹 Oral Disease Detection
-- Beginner-level Deep Learning project  
-- Image-based diagnosis system  
-
----
-
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Mansi114114&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=Mansi114114&theme=tokyonight)
-
----
-
 ## 📫 Contact Me
 📧 mishramansi55558@gmail.com  
 🔗 https://github.com/Mansi114114  
