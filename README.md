@@ -13,7 +13,7 @@ B.Tech CSE @ Indira Gandhi Delhi Technical University for Women
 - 🎓 B.Tech, Computer Science Engineering @ **IGDTUW**, New Delhi (2024 – 2028) · CGPA 8.86/10
 - 🤖 Gen AI & Agentic AI Intern @ **Sansoftech Services** — building an autonomous AI coding assistant
 - 🩺 Ex-Computer Vision Intern @ **Anveshan Foundation** — CNN-based medical image diagnosis
-- 🧩 130+ DSA problems solved · Active project builder (RAG, embeddings, agents)
+- 🧩 200+ DSA problems solved · Active project builder (RAG, embeddings, agents)
 - 🏆 1st place @ DevXpo Shunya 2025 (263 teams) & Inter-Branch App Dev Hackathon (60 teams)
 
 ---
@@ -22,10 +22,10 @@ B.Tech CSE @ Indira Gandhi Delhi Technical University for Women
 
 ### 🌐 Professional Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansimishra7011)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishramansi55558@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mansi7739/)
 
 </div>
 
@@ -76,12 +76,4 @@ B.Tech CSE @ Indira Gandhi Delhi Technical University for Women
 - 🥇 **First Place** — Inter-Branch Mobile App Development Hackathon, IGDTUW CSE (among 60 teams)
 - 🥈 **2nd Place** — AIoT Project Showcase 2026, IGDTUW CSE
 - 🎖️ **Schneider Scholar** — Schneider Electric India Foundation Scholarship Program 2025
-- 🧩 130+ DSA problems solved on LeetCode & TakeUForward, including 30+ POTD challenges
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6DDCFF&height=100&section=footer"/>
-
-</div>
+- 🧩 200+ DSA problems solved on LeetCode & TakeUForward, including 30+ POTD challenges
