@@ -1,26 +1,33 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6DDCFF&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Mansi+Mishra+%F0%9F%91%8B;Building+Agentic+AI+%26+RAG+Systems;CS+Student+%40+IGDTUW;Turning+Ideas+Into+Real-World+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=32&pause=1000&color=FFDF87&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Mansi!" alt="Typing SVG" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mansimishra&color=6DDCFF&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](#)
-[![Gmail](https://img.shields.io/badge/mishramansi55558%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mishramansi55558@gmail.com)
+B.Tech CSE @ Indira Gandhi Delhi Technical University for Women
 
 </div>
 
 ---
 
-### 🧠 About Me
+### 🔗 About Me
 
-- 🎓 B.Tech, Computer Science Engineering @ **IGDTUW**, New Delhi (2024 – 2028) · **CGPA 8.86/10**
-- 🤖 Currently building an **autonomous AI coding assistant** as a Gen AI & Agentic AI Intern @ **Sansoftech Services**
-- 🩺 Previously worked on **CNN-based medical image diagnosis** @ Anveshan Foundation, IGDTUW
-- 🧩 I like turning research-y AI ideas (RAG, embeddings, agents) into shippable, working products
-- 🏆 Won **DevXpo Shunya 2025** (1st / 263 teams) and an Inter-Branch App Dev Hackathon (1st / 60 teams)
-- ⚡ Fun fact: I prefer building **real projects over just theory**
+- 🎓 B.Tech, Computer Science Engineering @ **IGDTUW**, New Delhi (2024 – 2028) · CGPA 8.86/10
+- 🤖 Gen AI & Agentic AI Intern @ **Sansoftech Services** — building an autonomous AI coding assistant
+- 🩺 Ex-Computer Vision Intern @ **Anveshan Foundation** — CNN-based medical image diagnosis
+- 🧩 130+ DSA problems solved · Active project builder (RAG, embeddings, agents)
+- 🏆 1st place @ DevXpo Shunya 2025 (263 teams) & Inter-Branch App Dev Hackathon (60 teams)
+
+---
+
+<div align="center">
+
+### 🌐 Professional Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishramansi55558@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+
+</div>
 
 ---
 
@@ -63,45 +70,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔍 LegalLens — AI Legal QA Assistant**  
-Hybrid TF-IDF + semantic embedding retrieval (FastEmbed) with a Logistic Regression classifier across 13 legal domains — **87% accuracy** on 604 annotated queries. Flask REST API, ONNX-optimized inference, deployed on Render.  
-`Python` `Flask` `Scikit-learn` `FastEmbed` `NLP`
-
-</td>
-<td width="50%" valign="top">
-
-**🦷 Oral Disease Prediction**  
-CNN pipeline (VGG16, DenseNet, Inception) detecting 7 oral conditions — **95% accuracy** with fine-tuned VGG16, evaluated via ROC-AUC & confusion matrix. Real-time Gradio interface.  
-`Python` `TensorFlow` `CNN` `OpenCV` `Gradio`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🆘 Nirbhaya — Women Safety App**  
-Android app with one-tap SOS, live location sharing via Google Maps links, fake-call feature, and Quick Settings tile activation. Firebase Auth + Realtime DB for contacts and messaging.  
-`Kotlin` `Android` `Firebase` `GPS` `SMS`
-
-</td>
-<td width="50%" valign="top">
-
-**🤖 Autonomous AI Coding Assistant** *(in progress)*  
-11-service backend powering 7 AI workflows (codegen, review, bug-fix, README-gen & more). RAG pipeline over 15 file types, ChromaDB vector search, GitHub OAuth integration.  
-`FastAPI` `LangChain` `Mistral AI` `ChromaDB`
-
-</td>
-</tr>
-</table>
-
----
-
 ### 🏆 Achievements & Certifications
 
 - 🥇 **Winner** — DevXpo Shunya 2025, GDSC NSUT (1st among 263 teams)
@@ -112,26 +80,7 @@ Android app with one-tap SOS, live location sharing via Google Maps links, fake-
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mansimishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansimishra&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mansimishra&theme=tokyonight&hide_border=true" />
-</div>
-
-> ⚠️ Replace `mansimishra` in the stats/streak URLs above with your **actual GitHub username** so the widgets pull your real data.
-
----
-
-<div align="center">
-
-### 📫 Let's Connect
-
-📧 [mishramansi55558@gmail.com](mailto:mishramansi55558@gmail.com) · 📱 +91-7011237739
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6DDCFF&height=100&section=footer"/>
 
