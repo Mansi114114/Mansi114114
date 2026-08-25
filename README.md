@@ -1,4 +1,7 @@
-# Hi, I'm Mansi 👋
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=28&color=ffdf87&pause=1000&width=435&lines=Hey+there%2C+I'm+Mansi Mishra!" />
+
 
 🎓 2nd Year B.Tech CSE Student  
 🏫 IGDTUW (2024–2028)  
